@@ -8,14 +8,16 @@
 
 - 💻 Currently working on the "DogSync" application
 
-- 🧠 I’m currently learning node.js / express and getting better at testing (jest)
+- 🧠 I’m currently learning React Native with TypeScript and getting better at testing (jest)
 
 - 📫 How to reach me **val.pcclinic@gmail.com**
+
+- 🎮 **Dark Souls and Hitman are my favorite game series**
 
 - ⚡ **I cannot live without music, gym and programming.**
 
 ## Skills and Tools
-* / REACT / REACT NATIVE / HTML / CSS / JS / TYPESCRIPT  / PYTHON / DJANGO / TESTING / JEST  / API / BOOTSTRAP / NPM /
+* / REACT / REACT NATIVE / HTML / CSS / JS / TYPESCRIPT / NODE/ EXPRESS / PYTHON / DJANGO / TESTING / JEST  / API / BOOTSTRAP / NPM /
 
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
