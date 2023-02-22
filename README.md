@@ -11,11 +11,11 @@
 
 - 🧠 I’m currently learning React Native with TypeScript and getting better at testing (jest)
 
-- 📫 How to reach me **val.pcclinic@gmail.com** || **<a href="https://www.linkedin.com/in/valerii-dorokhov-534312211/">LinkedIn</a>**
+- 📫 How to reach me **dorokhov.valerii@gmail.com** || **<a href="https://www.linkedin.com/in/valerii-dorokhov-534312211/">LinkedIn</a>**
 
 - 🎮 **Dark Souls and Hitman are my favorite game series**
 
-- ⚡ **I cannot live without music, gym and programming.**
+- ⚡ **I cannot live without music, films and programming.**
 
 ## Skills and Tools
 * / REACT / REACT NATIVE / HTML / CSS / JS / TYPESCRIPT / NODE/ EXPRESS / PYTHON / DJANGO / TESTING / JEST  / API / BOOTSTRAP / NPM /
