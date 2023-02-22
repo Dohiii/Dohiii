@@ -1,4 +1,4 @@
-<a href="#"><img width="30%" height="auto" src="https://github.com/Dohiii/Dohiii/blob/main/dark_souls_laptop.jfif" /></a>
+<a align="center" href="#"><img align="center" width="30%" height="auto" src="https://github.com/Dohiii/Dohiii/blob/main/dark_souls_laptop.jfif" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Val</h1>
 <h3 align="center">I'm a Developer from Ukraine.</h3>
