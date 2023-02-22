@@ -7,7 +7,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 💻 Currently working on the "DogSync" application
+- 💻 Currently working on the "DogSync" application for android and ios
 
 - 🧠 I’m currently learning React Native with TypeScript and getting better at testing (jest)
 
