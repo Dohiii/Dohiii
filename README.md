@@ -11,7 +11,7 @@
 
 - 🧠 I’m currently learning React Native with TypeScript and getting better at testing (jest)
 
-- 📫 How to reach me **val.pcclinic@gmail.com** **https://www.linkedin.com/in/valerii-dorokhov-534312211/**
+- 📫 How to reach me **val.pcclinic@gmail.com** **<a href="https://www.linkedin.com/in/valerii-dorokhov-534312211/">LinkedIn</a>**
 
 - 🎮 **Dark Souls and Hitman are my favorite game series**
 
