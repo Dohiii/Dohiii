@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **dorokhov.valerii@gmail.com** || **<a href="https://www.linkedin.com/in/valerii-dorokhov-534312211/">LinkedIn</a>**
 
-- 🎮 **Dark Souls and Hitman are my favorite game series**
-
 - ⚡ **I cannot live without music, films and programming.**
 
 ## Skills and Tools
